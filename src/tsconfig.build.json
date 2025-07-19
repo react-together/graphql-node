@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "composite": false,
+    "noEmit": false,
+    "emitDeclarationOnly": false,
+    "sourceMap": true,
+    "declaration": false,
+    "noEmitOnError": true
+  },
+  "exclude": ["**/*.test.ts", "**/*.spec.ts"]
+}

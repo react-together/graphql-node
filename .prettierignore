@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+pnpm-debug.log*
+
+# Package Managers
+node_modules/
+pnpm-lock.yaml
+
+# Generated
+dist/
+build/
+coverage/
+docs/
+drizzle/migrations/
+
+# Editor directories and files
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Caches
+.eslintcache
+
+# Config files
+.*
+
+CHANGELOG.md

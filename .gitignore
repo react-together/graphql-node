@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+pnpm-debug.log*
+
+node_modules/
+
+# Generated
+dist/
+build/
+coverage/
+docs/
+coverage/
+*.local
+
+# Editor directories and files
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Caches
+.eslintcache
+
+# Application
+.env

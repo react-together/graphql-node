@@ -68,4 +68,10 @@ export default [
       },
     },
   }),
+  {
+    files: ["src/models/**/*.ts"],
+    rules: {
+      "perfectionist/sort-objects": "off",
+    },
+  },
 ];

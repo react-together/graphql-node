@@ -1,0 +1,4 @@
+onlyBuiltDependencies:
+  - "@apollo/protobufjs"
+  - esbuild
+  - unrs-resolver
